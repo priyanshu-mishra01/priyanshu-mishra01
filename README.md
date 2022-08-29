@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyanshu-mishra01
 - 👀 I’m interested in Competative Coding
-- 🌱 I’m currently learning Machine Learing
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me www.linkedin.com/in/priyanshu-mishra-b395b5212
 
